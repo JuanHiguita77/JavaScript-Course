@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prueba de snapshot Es Juan Pablo 1`] = `
+{
+  "balance": 800,
+  "nombre": "juan",
+  "tipo": "premium",
+}
+`;
